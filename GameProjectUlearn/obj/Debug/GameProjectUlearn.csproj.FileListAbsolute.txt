@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\bin\Debug\GameProjectUlearn.exe.config
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\bin\Debug\GameProjectUlearn.exe
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\bin\Debug\GameProjectUlearn.pdb
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.Form1.resources
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.Properties.Resources.resources
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.csproj.GenerateResource.cache
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.exe
+C:\Users\1\source\repos\GameProjectUlearn\GameProjectUlearn\obj\Debug\GameProjectUlearn.pdb
